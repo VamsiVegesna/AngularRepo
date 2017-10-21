@@ -1,9 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "employees": [
+  {"code": "emp101", "name": "Vamsi", "gender": "Male", "salary": 100000, "dateOfBirth": "22/05/1993"},
+ {"code": "emp102", "name": "Sahitha", "gender": "Female", "salary": 150000, "dateOfBirth": "19/05/1973"},
+{"code": "emp103", "name": "Teja", "gender": "Male", "salary": 200000, "dateOfBirth": "02/09/1990"},
+{"code": "emp104", "name": "Ravi", "gender": "Male", "salary": 700000, "dateOfBirth": "28/08/1995"},
+{"code": "emp105", "name": "Raja", "gender": "Male", "salary": 800000, "dateOfBirth": "28/07/1895"}
+]
 }
